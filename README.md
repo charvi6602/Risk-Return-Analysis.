@@ -1,1 +1,1 @@
-This Projects inlcudes the risk and return analysis for the major compaanies that are studied through Nifty and taken for futher analysis and visualisations.
+**This Projects inlcudes the risk and return analysis for the major companies that are studied through Nifty and taken for further analysis and visualizations.**
